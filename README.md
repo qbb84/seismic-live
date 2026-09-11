@@ -4,7 +4,7 @@ A real-time 3D earthquake globe. Live USGS seismic events flow through a Kafka
 pipeline and stream onto a rotatable Earth as they happen — with magnitude rings,
 click-to-inspect details, live notifications, and tsunami-flag warnings.
 
-![Seismic Live demo](seismicdemo.gif)
+![Seismic Live demo](seismic-live/seismicdemo.gif)
 
 Built end to end in about **5 hours**.
 
